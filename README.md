@@ -12,7 +12,7 @@ SMS-BOMBING Using python for Iranian cases.
         
         python3 Arya-sms-bomb.py 912***++// 
        
-       -- ( do not enter the +98 , first 0 of mobile number and etc ...)
+   ( do not enter the +98 , first 0 of mobile number and etc ...)
        you can edit the code to specify how much SMSs you want to send.
       
 ## Disclaimer
