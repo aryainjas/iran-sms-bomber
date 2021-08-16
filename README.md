@@ -5,7 +5,10 @@ SMS-BOMBING Using python for Iranian cases.
 # How to use
   you can use this script easy Af ,you only need PYTHON3 (sudo apt install python3 or download it from python.org)
   ![Arya-sms-bomb](https://user-images.githubusercontent.com/36337300/129579552-7f56da9b-ecce-446b-b23e-700a4a780538.png)
-  use this command to start bombing the victim number :
+  
+  
+  
+   use this command to start bombing the victim number :
         
         python3 Arya-sms-bomb.py 912***++// 
        
