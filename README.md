@@ -1,4 +1,5 @@
  [![HitCount](http://hits.dwyl.com/aryainjas/iran-sms-bomber.svg?style=flat-square)](http://hits.dwyl.com/aryainjas/iran-sms-bomber)
+[![CodeFactor](https://www.codefactor.io/repository/github/aryainjas/iran-sms-bomber/badge)](https://www.codefactor.io/repository/github/aryainjas/iran-sms-bomber)
 ![110957](https://user-images.githubusercontent.com/36337300/129598811-c7fe9ea5-2ed2-4e4b-8067-160442e64bb5.jpg)
 
 
