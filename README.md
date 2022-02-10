@@ -1,4 +1,4 @@
-
+ [![HitCount](http://hits.dwyl.com/aryainjas/iran-sms-bomber.svg?style=flat-square)](http://hits.dwyl.com/aryainjas/iran-sms-bomber)
 ![110957](https://user-images.githubusercontent.com/36337300/129598811-c7fe9ea5-2ed2-4e4b-8067-160442e64bb5.jpg)
 
 
@@ -30,4 +30,4 @@ The use of the iran-sms-bomber & etc ... is COMPLETE RESPONSIBILITY of the END-U
 <a href="https://nowpayments.io/donation?api_key=8NWRRT9-GWM4NDE-JXPJF75-74ZY5D0" target="_blank">
 <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
 </a>
- [![HitCount](http://hits.dwyl.com/aryainjas/iran-sms-bomber.svg?style=flat-square)](http://hits.dwyl.com/aryainjas/iran-sms-bomber)
+
